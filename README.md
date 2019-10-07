@@ -64,56 +64,67 @@ It is highly important to preserve the nature and keeping a track of the chemica
 **4. UNB Data Visualization** - 
 A national Data Visualization competition hosted by University of New Brunswick. With the power of open data and using the bicycle dataset, a recommendation was communicated on the idea to make Fredericton a less car relient city.
 
-**13. International Business Analytics Challenge** -
+---
+
+## Competitions
+
+**1. International Business Analytics Challenge** -
 The aim of the competition was to derive strategic business insights from the given AIESEC's data. The two main questions were answered: 1) How to increase the number of exchange opportunities posted by organizations? 2) How to increase the proportion of posted opportunities that find a suitable candidate. A recommendation system was built to improve the existing system for higher proportion of realizations.
+
+**2. Halifax Innovation Challenge** - 
+Awarded first prize for solving a real world problem and coming up with an innovative solution to help the current transportation problems of congestion, poor connectivity, time delays, etc. in Halifax.
+
+---
 
 ## Statistics
 
 **1. Firestone Canada Inc.** -
-• Retailing, marketing
-• Probability estimation, probability distribution and expected value
-• Business risk
-• Integrating strategies in marketing, operations and finance
+
+* Retailing, marketing
+* Probability estimation, probability distribution and expected value
+* Business risk
+* Integrating strategies in marketing, operations and finance
 
 **2. Elite Rent-a-Car** -
-• Retailing, financial analysis
-• Data analysis: estimation of probabilities from a histogram
-• Breakeven analysis: variable cost and fixed cost
-• Comparing financing alternatives → developing optimal strategy
+
+* Retailing, financial analysis
+* Data analysis: estimation of probabilities from a histogram
+* Breakeven analysis: variable cost and fixed cost
+* Comparing financing alternatives → developing optimal strategy
 
 **3. Understanding Political Polls** - 
-• Poll, survey, marking, data collection and analysis
-• Basic statistical Inference
-• Concepts in sampling ( sampling size, errors, etc)
+
+* Poll, survey, marking, data collection and analysis
+* Basic statistical Inference
+* Concepts in sampling ( sampling size, errors, etc)
 
 **4. City Center Hospital** - 
-• Healthcare, IT application, Knowledge transfer measurement
-• Research question formulation
-• Hypothesis testing and interpretation
+
+* Healthcare, IT application, Knowledge transfer measurement
+* Research question formulation
+* Hypothesis testing and interpretation
 
 **5. Lanco Catalogue Sales** - 
-• Retailing, marking, inventory management
-• Contingency table
-• Skills in regression – clustering
-• Model built and analysis
+
+* Retailing, marking, inventory management
+* Contingency table
+* Skills in regression – clustering
+* Model built and analysis
 
 **6. Orion Bus Industries** - 
-• Bidding, sales & marketing, pricing, integrating operations
-• Decision analysis
-• Regression: using of dummy variables
+
+* Bidding, sales & marketing, pricing, integrating operations
+* Decision analysis
+* Regression: using of dummy variables
 
 **7. Brand Equity** - 
-• Marketing, consumer behavior analysis
-• Crosstab, ANOVA and MANOVA
-• Hypothesis Testing → Decision data collection and analysis
+
+* Marketing, consumer behavior analysis
+* Crosstab, ANOVA and MANOVA
+* Hypothesis Testing → Decision data collection and analysis
 
 **8. Container Transportation Company** - 
-• Linear Optimization
-• Decision Analysis (Demand Estimation)
-• Model building: initial setup, test and improve, interpretation
 
-
-
-
-
-
+* Linear Optimization
+* Decision Analysis (Demand Estimation)
+* Model building: initial setup, test and improve, interpretation
