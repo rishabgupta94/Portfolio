@@ -1,4 +1,6 @@
-# Data Science Portfolio by Rishab Gupta
+# DATA SCIENCE PORTFOLIO BY RISHAB GUPTA
+
+
 
 This portfolio is a compilation of notebooks and my projects which I completed to gain some hands-on experience in the data science domain.
 
@@ -14,7 +16,7 @@ The project task was to explore the Lego sets that have ever been sold; the name
 **1. Credit Card Applications** -
 Manually analyzing the bank applications for credit card approval is mundane, error-prone and time consuming task. Using the power of machine learning, automated the credit card approval system for a commercial bank. The skills used in this project are: pandas, numpy, Label Encoding, Standardizing features and Logistic Regression with an accuracy score of 83.7%.
 
-**2. Classify song genres** -
+**2. Classify Song Genres** -
 Streaming services have looked into means of categorizing music to allow for personalized recommendations. Given the features like danceability, instrumentalness, energy, etc., the songs will be classifed into two categories, "Hip-Hop" and "Rock". The skills used in this project are: pandas, numpy, data cleaning, Standardizing features, PCA, Decision Tree, Logistic Regression and Cross Validation.
 
 **3. Sentiment Analysis** -
@@ -31,7 +33,7 @@ The professor wishes to buy a ring for his fiancee but is confronted by a dizzyi
 
 ## Image Prediction
 
-**Predict bee species from images** -
+**Predict Bee Species from Images** -
 Can a machine identify a bee as a honey bee or a bumble bee? The project involved exploring the color channels, loading and processing the image data before feeding it to a machine learning algorithm. This project was completed to understand the working of images in Python and Machine Learning. The skills used in this project are: pandas, numpy, data cleaning, data manipulation, PIL, HOGs, PCA and SVM.
 
 ---
@@ -66,7 +68,7 @@ A national Data Visualization competition hosted by University of New Brunswick.
 
 ---
 
-## Competitions
+## Competitions and Hackathons
 
 **1. International Business Analytics Challenge** -
 The aim of the competition was to derive strategic business insights from the given AIESEC's data. The two main questions were answered: 1) How to increase the number of exchange opportunities posted by organizations? 2) How to increase the proportion of posted opportunities that find a suitable candidate. A recommendation system was built to improve the existing system for higher proportion of realizations.
