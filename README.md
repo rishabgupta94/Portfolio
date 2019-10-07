@@ -41,7 +41,7 @@ Can a machine identify a bee as a honey bee or a bumble bee? The project involve
 ## SQL
 
 **Halifax Public Library SQL Application** - 
-The project was focused to improve the existing database design of the library. The library had three immediate plans: To record all articles for each magazine, to record transaction history, to record monthly expenses. A backend data management system was created using relational database structure. A front end system was created for library administrative staff. The skills used in this project are: SQL, MongoDB, RDBMS, Python, PHP
+The project was focused to improve the existing database design of the library. The library had three immediate plans: To record all articles for each magazine, to record transaction history, to record monthly expenses. A backend data management system was created using relational database structure. A front end system was created for library administrative staff. The skills used in this project are: SQL, MongoDB, RDBMS, Python, PHP.
 
 ---
 
