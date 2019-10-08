@@ -74,7 +74,7 @@ Given the company's inventory data, the aim of this project was to optimize thei
 
 It is highly important to preserve the nature and keeping a track of the chemical composition of the rivers is imperative. A data set of Nova Scotia rivers was used from the Open Data portal and visualized in Tableau, so the government can now publish annual reports used to influence regulations for industrial waste handling. The skills used in this project are: Data Analysis, Tableau
 
-**4. UNB Data Visualization** - [github](https://github.com/rishabgupta94/Data-Visualization-UNB) [Competition link](http://unb.ca/data)
+**4. UNB Data Visualization** - [github](https://github.com/rishabgupta94/Data-Visualization-UNB), [Competition link](http://unb.ca/data)
 
 A national Data Visualization competition hosted by University of New Brunswick. With the power of open data and using the bicycle dataset, a recommendation was communicated on the idea to make Fredericton a less car relient city.
 
