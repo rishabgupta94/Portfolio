@@ -127,13 +127,13 @@ Awarded first prize for solving a real world problem and coming up with an innov
 * Skills in regression – clustering
 * Model built and analysis
 
-**6. Orion Bus Industries** - [github](https://github.com/rishabgupta94/Statistics-Coursework/tree/master/Assignment%206)
+**6. Orion Bus Industries** - [github](https://github.com/rishabgupta94/Statistics-Coursework/tree/master/Assignment%207)
 
 * Bidding, sales & marketing, pricing, integrating operations
 * Decision analysis
 * Regression: using of dummy variables
 
-**7. Brand Equity** - [github](https://github.com/rishabgupta94/Statistics-Coursework/tree/master/Assignment%207)
+**7. Brand Equity** - [github](https://github.com/rishabgupta94/Statistics-Coursework/tree/master/Assignment%206)
 
 * Marketing, consumer behavior analysis
 * Crosstab, ANOVA and MANOVA
