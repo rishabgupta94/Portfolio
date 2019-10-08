@@ -6,7 +6,7 @@ This portfolio is a compilation of notebooks and my projects which I completed t
 
 ## Data Exploration and Analysis
 
-**Exploring 67 years of Lego** - [github](https://github.com/rishabgupta94/Exploring-67-years-of-lego/blob/master/notebook.ipynb)
+**Exploring 67 years of Lego** - [github](https://github.com/rishabgupta94/Exploring-67-years-of-lego)
 
 The project task was to explore the Lego sets that have ever been sold; the name of the sets, what bricks they contain, what color the bricks are, etc. The skills used in this project are pandas and manipulating dataframes.
 
@@ -14,7 +14,7 @@ The project task was to explore the Lego sets that have ever been sold; the name
 
 ## Classification problems
 
-**1. Credit Card Applications** - [github](https://github.com/rishabgupta94/Credit-Card-Applications/blob/master/notebook.ipynb)
+**1. Credit Card Applications** - [github](https://github.com/rishabgupta94/Credit-Card-Applications)
 
 Manually analyzing the bank applications for credit card approval is mundane, error-prone and time consuming task. Using the power of machine learning, automated the credit card approval system for a commercial bank. The skills used in this project are: pandas, numpy, Label Encoding, Standardizing features and Logistic Regression with an accuracy score of 83.7%.
 
